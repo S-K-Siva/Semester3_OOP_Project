@@ -1,0 +1,5 @@
+SivaSK	SivaSK123	Student
+Faculty101	Faculty123	Staff
+Warden1	warden123	Warden
+Harsha	harsha123	Student
+Warden2	warden123	Warden

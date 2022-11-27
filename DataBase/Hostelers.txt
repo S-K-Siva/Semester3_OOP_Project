@@ -1,0 +1,6 @@
+SivaSK	Student	Narmada	706
+Faculty101	Staff	Narmada	707
+Warden1	Warden	Narmada	705
+
+Harsha	Student	Krishna	806
+Warden2	Warden	Krishna	102
