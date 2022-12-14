@@ -50,7 +50,7 @@ YamunaHostel 509 - 5 -
 YamunaHostel 510 - 5 -
 YamunaHostel 601 - 6 -
 YamunaHostel 602 - 6 -
-YamunaHostel 603 - 6 -
+YamunaHostel 603 AP21110010067 6 Student
 YamunaHostel 604 - 6 -
 YamunaHostel 605 - 6 -
 YamunaHostel 606 - 6 -
@@ -88,4 +88,4 @@ YamunaHostel 907 - 9 -
 YamunaHostel 908 - 9 -
 YamunaHostel 909 - 9 -
 YamunaHostel 910 - 9 -
-9   9 
+9 9 9 9 

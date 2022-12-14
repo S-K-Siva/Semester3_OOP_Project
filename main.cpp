@@ -477,6 +477,7 @@ class Payment{
         }
     }
 };
+
 class Mess : public Payment{
     public:
     int payment_gateway(string UserName){
@@ -534,6 +535,7 @@ class Mess : public Payment{
         }
     }
 };
+
 class Hostel{
     public:
     void structure_hostel_room(int num){
